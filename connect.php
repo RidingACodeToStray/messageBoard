@@ -1,8 +1,8 @@
 ﻿<?php
-$host="bdm256530624.my3w.com";
-$db_user="bdm256530624";
-$db_pass="day120120";
-$db_name="bdm256530624_db";
+$host="数据库主机";
+$db_user="数据库用户名";
+$db_pass="用户密码";
+$db_name="数据库名";
 $timezone="Asia/Shanghai";
 
 $link=mysqli_connect($host,$db_user,$db_pass);//连接数据库主机
